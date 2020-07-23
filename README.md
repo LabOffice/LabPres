@@ -1,1 +1,2 @@
-# LabPPT
+# LabPres
+LabOffice Presentation
